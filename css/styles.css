@@ -170,3 +170,94 @@ main form input[type="submit"] {
 }
 
 /* Fim do css Contato */
+
+h3 {
+  font-family: arial;
+  font-size: 20pt;
+  margin: 30px;
+  text-align: center;
+}
+
+#pc {
+  padding: 30px;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  box-shadow: 2px 2px 10px black;
+  justify-content: center;
+}
+
+#pc div {
+  width: 30%;
+  margin: 10px;
+  border: 2px solid rgb(0, 0, 0);
+}
+#pc div img {
+  width: 100%;
+  height: 400px;
+}
+
+#pc div h4 {
+  font-family: arial;
+  font-size: 15pt;
+  margin: 10px;
+}
+
+#pc div p {
+  font-family: arial;
+  font-size: 15pt;
+  color: rgb(107, 52, 32);
+  margin: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: arial;
+  font-size: 20pt;
+  margin: 30px;
+  text-align: center;
+}
+
+/* --------------------div linha--------------------- */
+
+h3 {
+  font-family: arial;
+  font-size: 15pt;
+  margin: 30px;
+  text-align: center;
+}
+
+#linha div {
+  width: 30%;
+  margin: 10px;
+  border: 2px solid rgb(0, 0, 0);
+}
+#linha img {
+  width: 900px;
+  height: 500px;
+  border-radius: 80px;
+}
+
+#linha {
+  text-align: center;
+}
+#linha div h4 {
+  font-family: arial;
+  font-size: 15pt;
+  margin: 10px;
+}
+
+#linha p {
+  font-family: arial;
+  font-size: 15pt;
+  color: rgb(0, 0, 0);
+  margin: 20px;
+}
+
+h2 {
+  font-family: arial;
+  font-size: 20pt;
+  margin: 30px;
+  text-align: center;
+}
